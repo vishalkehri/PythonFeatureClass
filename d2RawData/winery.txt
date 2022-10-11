@@ -1,0 +1,47 @@
+FarmID	Name	FarmType	EastingM	NorthingM
+1001	20 Bees Winery	Winery	650838.901	4785333.131
+1002	Angels Gate Winery	Winery	622162.316	4780289.768
+1003	Cave Spring Cellars	Winery	632539.904	4778749.123
+1004	Chatêau des Charmes	Winery	652205.661	4780018.975
+1005	Cornerstone Estate Winery	Winery	626333.986	4781013.124
+1006	Crown Bench Estates	Winery	624895.373	4778056.925
+1007	De Sousa Wine Cellars	Winery	625324.724	4777819.895
+1008	Featherstone Winery and Vineyard	Winery	630768.475	4777478.387
+1009	Frogpond Farm Organic Winery	Winery	656717.540	4784866.135
+1010	GreenLane Estate Winery	Winery	629264.086	4779490.840
+1011	Harbour Estates Winery	Winery	633216.119	4781419.053
+1012	Henry of Pelham Estate Winery	Winery	638541.598	4774321.759
+1013	Hidden Bench Vineyards and Winery	Winery	622623.228	4779816.613
+1014	Hillebrand Winery	Winery	651510.445	4786073.750
+1015	Jackson-Triggs Niagara Estate Winery	Winery	654811.966	4789780.907
+1016	Joseph's Estate Wines	Winery	653600.835	4788432.749
+1017	Kacaba Vineyards	Winery	629980.374	4779098.252
+1018	Kittling Ridge Estate Wines and Spirits	Winery	615076.797	4784421.557
+1019	Konzelmann Estate Winery	Winery	650940.188	4790272.395
+1020	Lailey Vineyard	Winery	657384.253	4788470.580
+1021	Magnotta Beamsville	Winery	623775.443	4782486.492
+1022	Maleta Estate Winery	Winery	649735.476	4780679.271
+1023	Malivoire Wine Company	Winery	626923.794	4779632.456
+1024	Megalomaniac	Winery	628981.046	4778936.901
+1025	Mountain Rd Wine Company	Winery	623753.777	4778906.816
+1026	Palatine Hills Estate Winery	Winery	650073.259	4789691.601
+1027	Peller Estates Winery	Winery	655333.465	4790649.269
+1028	Peninsula Ridge Estates Winery	Winery	621282.061	4781876.377
+1029	Pillitteri Estates Winery	Winery	653215.379	4787994.250
+1030	Ravine Vineyard Estate Winery	Winery	654006.910	4780148.995
+1031	Ridgepoint Wines	Winery	628988.303	4778834.922
+1032	Rosewood Estates Winery and Meadery	Winery	622154.668	4780653.729
+1033	Royal DeMaria Wines	Winery	628792.781	4782012.399
+1034	Southbrook Vineyards	Winery	649032.351	4783344.157
+1035	Stonechurch Vineyards	Winery	648500.897	4787667.771
+1036	Stratus Inc.	Winery	654430.202	4789357.465
+1037	Strewn Winery	Winery	652206.021	4790600.027
+1038	Sunnybrook Farm Estate Winery	Winery	652552.771	4790609.564
+1039	Tawse Winery Inc.	Winery	628976.202	4779018.694
+1040	The Foreign Affair Winery	Winery	630399.107	4783410.027
+1041	The Good Earth Vineyard and Winery	Winery	622966.148	4781758.078
+1042	The Organized Crime Winery	Winery	622198.747	4779093.767
+1043	Thirty Bench	Winery	622162.324	4780289.424
+1044	Thomas and Vaughan Estate Winery	Winery	627256.246	4779649.500
+1045	Vineland Estates Winery	Winery	629791.907	4778188.055
+1046	Wayne Gretzky Estate Winery	Winery	629264.086	4779490.840

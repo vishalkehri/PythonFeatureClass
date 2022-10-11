@@ -1,0 +1,46 @@
+FarmID	Name	FarmType	EastingM	NorthingM
+1	Bilski Farm	Roadside Market	613321.675	4784393.313
+2	Blueberry Knoll Berry Farm	Pick-Your-Own Farm	621509.927	4753230.424
+3	Bohonos Farms	Roadside Market	623095.369	4781952.345
+4	Brock Farmers Market	Farmers Market	642883.199	4776058.500
+5	Bry-Anne Farms	Pick-Your-Own Farm	636290.810	4763905.657
+6	Busy Bee Gardens Lavender	Pick-Your-Own Farm	649791.896	4784181.028
+7	Cherry Ave Farms	Pick-Your-Own Farm	628880.480	4780535.852
+8	Creek Shore Farms	Roadside Market	637317.873	4782654.121
+9	CW Acres	Roadside Market	607676.206	4770577.218
+10	De Vries Fruit Farm	Pick-Your-Own Farm	633230.748	4764800.036
+11	Duffin Farms	Pick-Your-Own Farm	640881.988	4767495.361
+12	Dunnville Farmers' Market ESt 1860	Farmers Market	607384.082	4752732.814
+13	Farmers' Market at The Village	Farmers Market	654814.657	4789787.275
+14	Fruit Shack Market and Bakery	Roadside Market	651578.647	4786150.494
+15	Grimsby Farmers' Market ESt 2008	Farmers Market	617060.678	4783413.049
+16	Gwennol Farm	Pick-Your-Own Farm	637662.241	4765736.092
+17	Hildreth Farms	Pick-Your-Own Farm	621651.594	4781889.010
+18	Hipple Farms	Roadside Market	628073.071	4780542.032
+19	Horizon Southdowns	Farmers Market	617780.372	4765339.170
+20	Howell Family Pumpkin Farm	Pick-Your-Own Farm	640614.133	4770937.617
+21	Iggy's Farm	Pick-Your-Own Farm	639184.404	4768640.030
+22	INN the PINES	Roadside Market	637405.108	4782618.594
+23	Mathias Farms	Roadside Market	637444.296	4770076.517
+24	Niagara College Teaching Brewery	Craft Brewer	647989.357	4780466.177
+25	Niagara Falls Farmers' Market	Farmers Market	655382.091	4772419.330
+26	Niagara's Best Brewery and Pub	Craft Brewer	653828.793	4772466.414
+27	Nokara Farms	Pick-Your-Own Farm	638314.373	4783052.479
+28	Pelham Farmers' Market ESt 2003	Farmers Market	639711.070	4767179.198
+29	Pillar 'n' Pines	Christmas Tree Farm	638527.624	4769130.379
+30	Port Colborne Farmers' Market Est 1940	Farmers Market	642713.456	4749540.764
+31	Quiet Acres	Roadside Market	649083.234	4788378.006
+32	Richardson's Farm Market	Pick-Your-Own Farm	607384.082	4752732.814
+33	Ridgeway Farmers' Market ESt 2008	Farmers Market	659085.631	4749582.796
+34	Sault Farm	Pick-Your-Own Farm	624888.936	4753296.767
+35	Sexsmith Farm	Roadside Market	661788.810	4749996.749
+36	Silmaril Farms	Pick-Your-Own Farm	617665.430	4781715.864
+37	St. Catharines Farmers' Market ESt 1868	Farmers Market	642576.065	4779893.511
+38	Two Century Fruit Farms	Pick-Your-Own Farm	613612.631	4783472.905
+39	Warner Orchards	Roadside Market	622926.632	4783001.854
+40	Warner's Farm	Roadside Market	627833.587	4781174.114
+41	Weiland's Cherry Farm	Pick-Your-Own Farm	638757.534	4768989.066
+42	Welland Farmers' Market ESt 1907	Farmers Market	642771.598	4761235.179
+43	Williams Orchards	Pick-Your-Own Farm	639611.246	4768391.599
+44	Windwood Farms	Roadside Market	627322.152	4779641.261
+45	Wright Rod and Girls	Pick-Your-Own Farm	632659.928	4764780.351
